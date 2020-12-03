@@ -1,39 +1,20 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# PEABA HEALTH
 
-Welcome USER_NAME,
+## UX - User Experience
+Peaba Health is a brilliant platform that combines an Online Pharmacy, Health Clinic and Wellbeing Shop all under one roof. The site makes it easy for users to have medication supplied as well as seek trusted medical advice and or diagnosis and on top of that find and order their desired dietary supplements. 
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+Users are able to use the online pharmacy to have their Private prescriptions fulfilled as well as certain prescription only medicines provided without prescription through PGDS (Patient Group Directives).The prescriptions can be one from an external Health professional or from an in house prescribing professional after a consultation. Users can also purchase Pharmacy medicines (Over the Counter – OTC).
 
-## Gitpod Reminders
+ The Health Clinic serves to connect users with highly skilled healthcare professionals and allows a medium to provide high quality consultations and diagnosis   
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+Through the magnificent Wellbeing Shop, users are able to purchase dietary supplements they are seeking or have been recommended to take by a healthcare professional.
 
-`python3 -m http.server`
+## FEATURES
 
-A blue button should appear to click: *Make Public*,
+## TECHNOLOLGIES USED
 
-Another blue button should appear to click: *Open Browser*.
+## TESTING
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## DEPLOYMENT
 
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+## CREDITS
