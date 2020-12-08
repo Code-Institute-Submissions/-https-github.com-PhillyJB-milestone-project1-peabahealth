@@ -30,12 +30,14 @@ Wireframes for the the four pages are available for viewing via the PDF file, th
     * Users will be able to book a Video Consultation Service to speak with a Healthcare professional. So web app based video meeting service to be added.
     * Blood testing service. Users will be able to book blood tests to have blood works undertaken to determine a condition or a deficiency in a vitamin or mineral etc. There will also be a home test kit option to order for home delivery. - If your condition requires blood tests or any further tests to be done this can all be arranged through your Peaba Health account and all you have to do is provide the sample at one of our designated centres and the rest will be taken care off. If you cannot make it to a centre we will sort home testing for you.
 * Wellbeing Shop Page - 
+    * Users will be able to subscribe to a regular automatic ordering system of their supplements to make sure they stay stocked on their supplements.
 
 ## TECHNOLOLGIES USED
-* Language - HTML5
-* Language - CSS3
-* Framework- [Bootstrap v4.5x](https://getbootstrap.com/)
-* Icons    - [Fontawsome](https://fontawesome.com/)
+* Language  - HTML5
+* Language  - CSS3
+* Framework - [Bootstrap v4.5x](https://getbootstrap.com/)
+* Icons     - [Fontawsome](https://fontawesome.com/)
+* Fonts     - [Googlefonts](https://fonts.google.com/?query=oswal&preview.text_type=custom) 
 
 ## TESTING
 
