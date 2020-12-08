@@ -9,9 +9,33 @@ Users are able to use the online pharmacy to have their Private prescriptions fu
 
 Through the magnificent Wellbeing Shop, users are able to purchase dietary supplements they are seeking or have been recommended to take by a healthcare professional.
 
+### **Wireframes**
+Wireframes for the the four pages are available for viewing via the PDF file, these were created using the web based version of [Balsamiq](https://balsamiq.com/):
+
+/assets/wireframes/peabahealth-ms1-wireframes.pdf
+
 ## FEATURES
 
+### **Existing Features**
+* HomePage Page - A user can scroll through each page freely at the moment without having to log in or enter any credentials. A user can go onto the Homepage and from there they can read the about us and gt an immediate idea about wht is offered on the site.
+* Pharmacy Page - A user can then decide to click on the Pharmacy Icon either from the nav bar or icon on the home page and be taken to the Pharmacy homepage where they can see the three options avaialble to them on the Pharmacy page. Each Icon if hovered over will give you more information as to what that feature is about. Then once not hovered over the original icon is redisplayed. At the moment the clicking onto the Icons bring up a notice message tellin the user at moment this feature has not been full implemented to the site. Please enter you name and email address and you will be notified once it is fully up and running.
+* Online CLinic Page - A user can go onto the Online clinic and be able to read what is offered within the Online clinic. Howevrer they currently will not be able to than just fill out the form regarding their condition or issue and submit it.
+* Wellbeing Shop Page - User Once on the Wellbeing Shop page can search for their desired supplement/item using the search bar or can browse the range of supplements based on the different categories diplayed - at the moment 8 in total.
+
+### **Future Features**
+* Home Page - Users will be able to log in or register into their account and be able to access more perosonal features of the site.
+* Pharmacy Page - 
+* Online Clinic Page -
+    * A profile section with all Users information including blood test results, Supplement usage, Prescription and wellbing shop invoice history
+    * Users will be able to book a Video Consultation Service to speak with a Healthcare professional. So web app based video meeting service to be added.
+    * Blood testing service. Users will be able to book blood tests to have blood works undertaken to determine a condition or a deficiency in a vitamin or mineral etc. There will also be a home test kit option to order for home delivery. - If your condition requires blood tests or any further tests to be done this can all be arranged through your Peaba Health account and all you have to do is provide the sample at one of our designated centres and the rest will be taken care off. If you cannot make it to a centre we will sort home testing for you.
+* Wellbeing Shop Page - 
+
 ## TECHNOLOLGIES USED
+* Language - HTML5
+* Language - CSS3
+* Framework- [Bootstrap v4.5x](https://getbootstrap.com/)
+* Icons    - [Fontawsome](https://fontawesome.com/)
 
 ## TESTING
 
