@@ -1,0 +1,17 @@
+/*Page General Styling */
+
+.container {
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 0px;
+}
+
+/* Top of Page */
+.page-top {
+    position: relative;
+}
+
+.search-bar {
+width: 2px;
+}
