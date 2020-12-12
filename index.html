@@ -22,29 +22,46 @@
   <body>
     <header>
       <div class="container">
+
         <!--logIn/register, Search Bar and Shopping basket-->
-        <div class="row">
-            <div class="col-3 page-top">
+        <div class="row no-gutters top-menu">
+            <a class="col-3" href="index.html">
             <img class="logo" src="assets/images/logos/peaba-health-logo-jpg.jpg" alt="peaba-health-logo" style="width: 120px; height: 60px;" />
-          </div>
-          <div class="col-3 page-top">
+            </a>
+          <div class="col-3">
             <button>LogIn/Register</button>
           </div>
 
-          <div class="col-3 page-top">
+          <div class="col-3">
             <button><i class="fas fa-search"></i></button>
             <input type="text" placeholder="Search" style="width: 90px; position: absolute;"/>
           </div>
 
-          <div class="col-3 page-top">
+          <div class="col-3" class="shop-cart">
             <i class="fas fa-shopping-cart" style="float: right;"></i>
+            <span style="float: right;">£0.00</span>
           </div>
         </div>
 
         <!--Nav Bar-->
-      <div></div>
+      <div class="row no-gutters">
+        <div class="col">
+            <ul id="nav-bar" class="list-inline menucontainer">
+                <li class="col-6 col-sm-4 col-md-3 list-inline-item navmenu-color-home menuitem">
+                    <a href="#"><i class="fas fa-home"></i><span>Home</span></a>
+                </li>
+                 <li class="col-6 col-sm-4 col-md-3 list-inline-item navmenu-color-pharmacy menuitem">
+                    <a href="#"><i class="fas fa-pills"></i><span>Pharmacy</span></a>
+                </li>
+                 <li class="col-6 col-sm-4 col-md-3 list-inline-item navmenu-color-clinic menuitem">
+                    <a href="#"><i class="fas fa-user-nurse"></i><span>Clinic</span></a>
+                </li>
+                 <li class="col-6 col-sm-4 col-md-3 list-inline-item navmenu-color-wellbeing menuitem">
+                    <a href="#"><i class="fas fa-cart-plus"></i><span>Wellbeing Shop</span></a>
+                </li>
+            </ul>
+        </div>
       </div>
-
     </header>
 
     <section></section>
