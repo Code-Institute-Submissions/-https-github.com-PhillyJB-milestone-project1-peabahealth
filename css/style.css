@@ -6,14 +6,15 @@
 /* -------------------------Header-------------------------------*/
 /*---Main Logo - Hero Logo-------*/
 #the-main-logo {
-    height: 50px;
+    width: 15%;
+    height: 15%;
     margin: auto;
     display: block;
 }
 
 /*------Navbar--------*/
-#search-form-and-button{
-    
+#search-form-and-button {
+    float: right;
 }
 
 /*--------------------------Colours------------------------------*/

@@ -27,39 +27,45 @@
 
 <!-----Landing image---->
 
-      <div class="container" id="the-header">
-        <a href="index.html" id="the-main-logo">
+    <!----  <div class="container" id="the-header">-->
+        <a href="index.html">
           <img
             src="assets/images/logos/peaba-health-logo.png"
-            alt="peaba-health-logo"
+            alt="peaba-health-logo" id="the-main-logo"
           />
         </a>
-      </div>
+    <!----</div>--->
 
 <!---------------Nav Bar-->
         <div class="row">
           <nav class="navbar navbar-expand-md bg-light justify-content-center">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link" href="#">Home</a>
+                <a class="nav-link" href="index.html"><i class="fas fa-home"></i>Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Pharmacy</a>
+                <a class="nav-link" href="pharmacypage.html"><i class="fas fa-pills"></i>Pharmacy</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Clinic</a>
+                <a class="nav-link" href="clinincpage.html"><i class="fas fa-user-md"></i>Clinic</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Wellbeing Shop</a>
+                <a class="nav-link" href="wellbeingshoppage.html"><i class="fas fa-store"></i>Wellbeing Shop</a>
               </li>
+
               <form class="form-inline" action="#" id="search-form-and-button">
                 <input
                   class="form-control mr-sm-2"
                   type="text"
                   placeholder="Search"
                 />
-                <button class="btn btn-success" type="submit">Search</button>
               </form>
+<!---search button outside of form to keep in line-->
+            <button class="btn btn-success" type="submit">Search
+               </button>
+<!----Log in regidster button-->
+              <button class="btn btn-success" type="submit">LogIn/Register
+              </button>
             </ul>
           </nav>
         </div>
@@ -68,6 +74,35 @@
 
     <section></section>
 
-    <footer></footer>
+    <footer>
+        <div class="row">
+            <div class="col-4">
+                <p>Our Services</p>
+                <ul>
+                    <li>Pharmacy</li>
+                    <li>Clinic</li>
+                    <li>Wellbeing Shop</li>
+                </ul>
+            </div>
+            <div class="col-4">
+                <p>Customer Service</p>
+                <ul>
+                    <li>Contact Us</li>
+                    <li>FAQs</li>
+                    <li>What our service users say</li>
+                    <li>Complaint procedure</li>
+                </ul>
+            </div>
+            <div class="col-4">
+                <p>Follow Us</p>
+                <ul>
+                    <li><i class="fab fa-facebook-square"></i></li>
+                    <li><i class="fab fa-twitter-square"></i></li>
+                    <li><i class="fab fa-linkedin"></i></li>
+                    <li><i class="fab fa-instagram-square"></i></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
   </body>
 </html>

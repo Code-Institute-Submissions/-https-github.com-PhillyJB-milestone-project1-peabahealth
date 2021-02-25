@@ -40,6 +40,10 @@ Wireframes for the the four pages are available for viewing via the PDF file, th
 * Fonts     - [Googlefonts](https://fonts.google.com/?query=oswal&preview.text_type=custom) 
 
 ## TESTING
+#### Trouble with getting Nav Icons to sit in correct positions - Home Page
+Having difficulty with tryin to get the Nav Icons to sit in the correct positions on the page. Would like to have the the Search Bar to the right of the nav bar and be fluid on smaller devices when mad smaller and search button to sit correctly.
+#### Solution
+
 
 ## DEPLOYMENT
 
