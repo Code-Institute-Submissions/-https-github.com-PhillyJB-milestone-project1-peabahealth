@@ -35,7 +35,7 @@ Wireframes for the the four pages are available for viewing via the PDF file, th
 ## TECHNOLOLGIES USED
 * Language  - HTML5
 * Language  - CSS3
-* Framework - [Bootstrap v4.5x](https://getbootstrap.com/)
+* Framework - [Bootstrap](https://getbootstrap.com/)
 * Icons     - [Fontawsome](https://fontawesome.com/)
 * Fonts     - [Googlefonts](https://fonts.google.com/?query=oswal&preview.text_type=custom) 
 
