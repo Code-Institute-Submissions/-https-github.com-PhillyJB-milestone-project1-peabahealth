@@ -44,9 +44,30 @@
     padding: 0%;
 }
 
-/*Clinic-page-icons-----*/
+/*-----------------------------------Clinic-page-icons-----*/
 
-/*Wellbeing-page-icons-----*/
+/*-----------------------------------Wellbeing-page-icons-----*/
+/*Category Images-----*/
+div.supplement-category-image {
+  margin: 5px;
+  border: 3px solid blue;
+  float: none;
+  width: 180px;
+}
+
+div.supplement-category-image:hover {
+  border: 3px solid blue;
+}
+
+div.supplement-category-image img {
+  width: 100%;
+  height: auto;
+}
+
+div.description-of-category {
+  padding: 15px;
+  text-align: center;
+}
 
 
-/*--------------------------Colours------------------------------*/
+/*-----------------------------------  Colours------------------------------*/

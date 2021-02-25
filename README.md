@@ -38,6 +38,7 @@ Wireframes for the the four pages are available for viewing via the PDF file, th
 * Framework - [Bootstrap](https://getbootstrap.com/)
 * Icons     - [Fontawsome](https://fontawesome.com/)
 * Fonts     - [Googlefonts](https://fonts.google.com/?query=oswal&preview.text_type=custom) 
+* CSS and HTML guidance - [W3schools](http://w3schools.com)
 
 ## TESTING
 #### Trouble with getting Nav Icons to sit in correct positions - Home Page
@@ -59,5 +60,6 @@ Having difficulty with tryin to get the Nav Icons to sit in the correct position
 -Patient Group Directions (PGDs) image taken from google via [medeconomics](https://www.medeconomics.co.uk/article/1383102/cqc-essentials-patient-group-directions-pgds-patient-specific-directions-psds)
 
 ####Clinic Page
+-dotors image on clinic page taken from google via [Doctors Online](https://kyiv.amcenters.com/programs/specialized-programs/doctor-online/)
 
 ####Wellbeing Page
