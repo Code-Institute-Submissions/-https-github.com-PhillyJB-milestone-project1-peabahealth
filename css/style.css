@@ -6,8 +6,8 @@
 /* -------------------------Header-------------------------------*/
 /*---Main Logo - Hero Logo-------*/
 #the-main-logo {
-    width: 25%;
-    height: 25%;
+    width: 20%;
+    height: 20%;
     margin: auto;
     display: block;
 }
@@ -19,18 +19,34 @@
 
 /*-------Boxes of information--------*/
 .page-key-information-box{
-    background-color: blue;
     margin: auto;
-    border-radius: 15%;
+    background-color: transparent;
+    border: 5px blue solid;
+    border-radius: 5%;
 }
 
-/*--------Icons to select on paged------*/
-.home-page-icon-thumbnail-images img{
+/*--------Icons to select on pages------*/
+
+/*home-page-icons-----*/
+.home-page-icon-images img{
     width: 100%;
     height: 100%;
     border-radius: 50%;
     border: 5px blue solid;
     padding: 0%;
 }
+/*pharmacy-page-icons----*/
+.pharmacy-page-icons img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    border: 5px blue solid;
+    padding: 0%;
+}
+
+/*Clinic-page-icons-----*/
+
+/*Wellbeing-page-icons-----*/
+
 
 /*--------------------------Colours------------------------------*/
