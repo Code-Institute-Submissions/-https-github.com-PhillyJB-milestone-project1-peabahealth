@@ -48,3 +48,6 @@ Having difficulty with tryin to get the Nav Icons to sit in the correct position
 ## DEPLOYMENT
 
 ## CREDITS
+-Pharmacy pot with Rc image taken from google via [Pain Sclae](https://www.painscale.com/article/medication-options-for-postural-orthostatic-tachycardia-syndrome-pots)
+-dotors image on home page taken from google via [Doctors Online](https://kyiv.amcenters.com/programs/specialized-programs/doctor-online/)
+-Supplement on table in wellbing icon image taken from goodle via [Whole foods website](https://www.wholefoodsmarket.co.uk/)
