@@ -41,10 +41,16 @@ Wireframes for the the four pages are available for viewing via the PDF file, th
 * CSS and HTML guidance - [W3schools](http://w3schools.com)
 
 ## TESTING
-#### Trouble with getting Nav Icons to sit in correct positions - Home Page
-Having difficulty with tryin to get the Nav Icons to sit in the correct positions on the page. Would like to have the the Search Bar to the right of the nav bar and be fluid on smaller devices when mad smaller and search button to sit correctly.
-#### Solution
 
+#### 1 Trouble with getting Nav Icons to sit in correct positions on all pages
+Having difficulty with tryin to get the Nav Icons to sit in the correct positions on the page. Would like to have the the Search Bar to the right of the nav bar and be fluid on smaller devices when mad smaller and search button to sit correctly.
+
+#### Solution
+Have used the bootstrap navbar class proeprty to help make my nav bar fluid with all categories going into a single line on screen sized smaller than 768px.
+
+The search form, button and LogIn/register icons are now also nicely sat on the right of the nav icons and are also responsive within the navbar class property used.
+
+#### 2 
 
 ## DEPLOYMENT
 

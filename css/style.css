@@ -76,31 +76,38 @@ div.footer-sections {
     background-color: white;
     padding: 12px 20px 12px 20px;
     transition: width 0.4s ease-in-out;
+    -moz-transition: width 0.4s ease-in-out;
+    -webkit-transition: width 0.4s ease-in-out;
 }
 
 #supplement-search-form input:focus {
   width: 100%;
 }
 
+.row-for-supplement-images {
+    margin: auto;
+}
+
 /*Category Images-----*/
 div.supplement-category-image {
-  margin: 5px;
+  margin: auto;
   border: 3px solid blue;
   float: none;
-  width: 24%;
 }
 
 div.supplement-category-image:hover {
   border: 3px solid blue;
 }
 
-div.supplement-category-image img {
+.supplement-category-image img {
   width: 100%;
-  height: auto;
+  height: 90%;
+  margin: 0;
 }
 
 div.description-of-category {
-  padding: 15px;
+  padding: 10px;
+  font-size: 15px;
   text-align: center;
 }
 
