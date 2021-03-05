@@ -23,9 +23,26 @@
     background-color: transparent;
     border: 5px blue solid;
     border-radius: 5%;
+    text-align: center;
 }
 
 /*--------Icons to select on pages------*/
+
+/*--------footer section styling------*/
+
+div.footer-sections {
+    padding left: 10rem:
+}
+
+.socials-links ul{
+    padding-left: 0;
+}
+.socials-links li{
+    display: inline-block;
+    padding-left: 0.5rem;
+    font-size: xx-large;
+}
+
 
 /*home-page-icons-----*/
 .home-page-icon-images img{
@@ -48,12 +65,23 @@
 
 /*-----------------------------------Wellbeing-page-icons-----*/
 /*Wellbeing-page-search bar and button*/
-div input.wellbeing-page-search{
-    width: 50%;
-    margin-left: 35%;
-    margin-right: right 0;
-    display: inline;
+#supplement-search-form input{
+    display: block;
+    width: 35%;
+    margin: auto;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    padding: 12px 20px 12px 20px;
+    transition: width 0.4s ease-in-out;
 }
+
+#supplement-search-form input:focus {
+  width: 100%;
+}
+
 /*Category Images-----*/
 div.supplement-category-image {
   margin: 5px;
