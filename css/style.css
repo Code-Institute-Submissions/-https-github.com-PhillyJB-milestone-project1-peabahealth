@@ -49,7 +49,7 @@ div.footer-sections {
     width: 100%;
     height: 100%;
     border-radius: 50%;
-    border: 5px blue solid;
+    border: 3px blue solid;
     padding: 0%;
 }
 /*pharmacy-page-icons----*/
@@ -57,11 +57,28 @@ div.footer-sections {
     width: 100%;
     height: 100%;
     border-radius: 50%;
-    border: 5px blue solid;
+    border: 3px blue solid;
     padding: 0%;
 }
 
 /*-----------------------------------Clinic-page-icons-----*/
+.clinic-page-row {
+    margin: 20px;
+}
+.consulation-form-section button{
+    width: 30%;
+    margin: auto;
+    display: block;
+}
+.clinic-page-icons img{
+    width: 50%;
+    height: 100%;
+    border-radius: 50%;
+    border: 3px blue solid;
+    padding: 0%;
+    display: block;
+    margin: auto;
+}
 
 /*-----------------------------------Wellbeing-page-icons-----*/
 /*Wellbeing-page-search bar and button*/
@@ -85,14 +102,17 @@ div.footer-sections {
 }
 
 .row-for-supplement-images {
-    margin: auto;
+    margin-top: 10px;
 }
 
-/*Category Images-----*/
-div.supplement-category-image {
-  margin: auto;
+/*-------Category Images-----*/
+
+
+.supplement-category-image {
+  margin: 0;
   border: 3px solid blue;
   float: none;
+  padding: 0;
 }
 
 div.supplement-category-image:hover {
@@ -106,10 +126,10 @@ div.supplement-category-image:hover {
 }
 
 div.description-of-category {
-  padding: 10px;
   font-size: 15px;
   text-align: center;
-}
+  height: 10%;
+  padding: auto;
 
 
 /*-----------------------------------  Colours------------------------------*/
