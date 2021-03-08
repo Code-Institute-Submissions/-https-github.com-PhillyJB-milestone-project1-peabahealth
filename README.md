@@ -17,14 +17,14 @@ Wireframes for the the four pages are available for viewing via the PDF file, th
 ## FEATURES
 
 ### **Existing Features**
-* HomePage Page - A user can scroll through each page freely at the moment without having to log in or enter any credentials. A user can go onto the Homepage and from there they can read the about us and gt an immediate idea about wht is offered on the site.
-* Pharmacy Page - A user can then decide to click on the Pharmacy Icon either from the nav bar or icon on the home page and be taken to the Pharmacy homepage where they can see the three options avaialble to them on the Pharmacy page. Each Icon if hovered over will give you more information as to what that feature is about. Then once not hovered over the original icon is redisplayed. At the moment the clicking onto the Icons bring up a notice message tellin the user at moment this feature has not been full implemented to the site. Please enter you name and email address and you will be notified once it is fully up and running.
-* Online CLinic Page - A user can go onto the Online clinic and be able to read what is offered within the Online clinic. Howevrer they currently will not be able to than just fill out the form regarding their condition or issue and submit it.
+* HomePage Page - A user can scroll through each page freely at the moment without having to log in or enter any credentials. A user can go onto the Homepage and from there they can read the about us and get an immediate idea about what is offered on the site.
+* Pharmacy Page - A user can then decide to click on the Pharmacy Icon either from the nav bar or icon on the home page and be taken to the Pharmacy homepage where they can see the three options avaialble to them on the Pharmacy page. Each Icon if hovered over will give you more information as to what that feature is about. Then once not hovered over the original icon is redisplayed. At the moment the clicking onto the Icons bring up a notice message telling the user at the moment this feature has not been fully implemented to the site. Please enter you name and email address and you will be notified once it is fully up and running.
+* Online Clinic Page - A user can go onto the Online clinic and be able to read what is offered within the Online clinic. Howevrer they currently will only be able use the to just fill out the form regarding their condition and submit it though tis does not action anything.
 * Wellbeing Shop Page - User Once on the Wellbeing Shop page can search for their desired supplement/item using the search bar or can browse the range of supplements based on the different categories diplayed - at the moment 8 in total.
 
 ### **Future Features**
 * Home Page - Users will be able to log in or register into their account and be able to access more perosonal features of the site.
-* Pharmacy Page - 
+* Pharmacy Page -
 * Online Clinic Page -
     * A profile section with all Users information including blood test results, Supplement usage, Prescription and wellbing shop invoice history
     * Users will be able to book a Video Consultation Service to speak with a Healthcare professional. So web app based video meeting service to be added.
@@ -46,12 +46,17 @@ Wireframes for the the four pages are available for viewing via the PDF file, th
 Having difficulty with tryin to get the Nav Icons to sit in the correct positions on the page. Would like to have the the Search Bar to the right of the nav bar and be fluid on smaller devices when mad smaller and search button to sit correctly.
 
 #### Solution
-Have used the bootstrap navbar class proeprty to help make my nav bar fluid with all categories going into a single line on screen sized smaller than 768px.
+Have used the bootstrap navbar class property to help make my nav bar more fluid and responsive with all categories going into a single line on screen sized smaller than 768px.
 
 The search form, button and LogIn/register icons are now also nicely sat on the right of the nav icons and are also responsive within the navbar class property used.
 
-#### 2 
+#### 2
 
+#### 3 
+
+#### 4 
+
+In its current form the 
 ## DEPLOYMENT
 
 ## CREDITS
