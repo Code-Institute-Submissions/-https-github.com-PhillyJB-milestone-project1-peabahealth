@@ -17,6 +17,7 @@
 }
 
 /*------Navbar--------*/
+
 .nav-item {
     text-align: center;
 }
@@ -62,7 +63,9 @@ font-size: xx-large;
 div.footer-sections {
     padding left: 10rem:
 }
-
+.footer-sections p {
+    font-weight: bold;
+}
 .footer-sections a {
 text-decoration: none;
 }
