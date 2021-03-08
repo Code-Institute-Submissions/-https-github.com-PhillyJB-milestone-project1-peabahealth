@@ -3,21 +3,17 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css"
       rel="stylesheet"
       integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl"
-      crossorigin="anonymous"
-    />
-
+      crossorigin="anonymous"/>
     <link
       rel="stylesheet"
       href="https://use.fontawesome.com/releases/v5.15.1/css/all.css"
       integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp"
-      crossorigin="anonymous"
-    />
-
+      crossorigin="anonymous"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css">
     <link rel="stylesheet" href="css/style.css" type="text/css" />
 
     <title>Peaba Health</title>
@@ -25,7 +21,6 @@
   <body>
     <header>
       <!-------------Landing image----------->
-
       <div>
         <a href="index.html">
           <img
@@ -41,7 +36,7 @@
         <nav class="navbar navbar-expand-md bg-light justify-content-center">
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link" href="index.html"
+              <a class="nav-link active" href="index.html"
                 ><i class="fas fa-home"></i>Home</a
               >
             </li>
@@ -82,9 +77,8 @@
       </div>
     </header>
 
-    <section>
+    <section class="container-fluid">
       <!--------About us Section-------->
-      <div class="cotainer">
         <div class="row">
           <div class="jumbotron col-8 page-key-information-box">
             <h4>About us</h4>
@@ -93,47 +87,48 @@
             </p>
           </div>
         </div>
-      </div>
+    
     <!-----------------Icons to select from section-->
       <div class="row">
-        <div class="col-md-4 home-page-icon-images"><a href="pharmacypage.html"><img src="assets/images/home-page-icon-thumbnail-images/pot-of-pills-and-rx.jpg" alt="pot-of-pills-and-rx"></a></div>
+        <div class="col-md-4 home-page-icon-images"><a href="pharmacypage.html" ><img  src="assets/images/home-page-icon-thumbnail-images/pot-of-pills-and-rx.jpg" alt="pot-of-pills-and-rx"></a></div>
 
-        <div class="col-md-4 home-page-icon-images"><a href="clinincpage.html"><img src="assets/images/home-page-icon-thumbnail-images/doctors-video-consultation.png" alt="doctor-video-consultation"></a></div>
+        <div class="col-md-4 home-page-icon-images"><a href="clinincpage.html" class="hvr-sweep-to-right"><img src="assets/images/home-page-icon-thumbnail-images/doctors-video-consultation.png" alt="doctor-video-consultation"></a></div>
 
-        <div class="col-md-4 home-page-icon-images"><a href="wellbeingshoppage.html"><img src="assets/images/home-page-icon-thumbnail-images/supplements-wellbeing-shop-part-2.jpg" alt="supplements-shelf"></a></div>
+        <div class="col-md-4 home-page-icon-images"><a href="wellbeingshoppage.html" class="hvr-sweep-to-right"><img src="assets/images/home-page-icon-thumbnail-images/supplements-wellbeing-shop-part-2.jpg" alt="supplements-shelf"></a></div>
       </div>
 
     </section>
 
-    <footer>
+    <footer class="container-fluid">
         <!----Our services on the footer section-->
       <div class="row">
         <div class="col-md-4 footer-sections">
           <p>Our Services</p>
           <ul>
-            <li>Pharmacy</li>
-            <li>Clinic</li>
-            <li>Wellbeing Shop</li>
+            <a href="index.html"><li>About us</li></a>
+            <a href="pharmacypage.html"><li>Pharmacy</li></a>
+            <a href="clinincpage.html"><li>Clinic</li></a>
+            <a href="wellbeingshoppage.html"><li>Wellbeing Shop</li></a>
           </ul>
         </div>
         <!----customer service and FAQs-->
         <div class="col-md-4 footer-sections">
           <p>Customer Service</p>
           <ul>
-            <li>Contact Us</li>
-            <li>FAQs</li>
-            <li>What our service users say</li>
-            <li>Complaint procedure</li>
+            <a href="#"><li>Contact Us</li></a>
+            <a href="#"><li>FAQs</li></a>
+            <a href="#"><li>What our service users say</li></a>
+            <a href="#"><li>Complaint procedure</li></a>
           </ul>
         </div>
         <!----social media links-->
         <div class="col-md-4 footer-sections socials-links">
           <p>Follow Us</p>
           <ul>
-            <li><i class="fab fa-facebook-square"></i></li>
-            <li><i class="fab fa-twitter-square"></i></li>
-            <li><i class="fab fa-linkedin"></i></li>
-            <li><i class="fab fa-instagram-square"></i></li>
+            <a href="#"><li><i class="fab fa-facebook-square"></i></li></a>
+            <a href="#"><li><i class="fab fa-twitter-square"></i></li></a>
+            <a href="#"><li><i class="fab fa-linkedin"></i></li></a>
+            <a href="#"><li><i class="fab fa-instagram-square"></i></li></a>
           </ul>
         </div>
       </div>

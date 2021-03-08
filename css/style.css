@@ -17,6 +17,14 @@
     float: right;
 }
 
+.nav-item a:hover {
+    color: green;
+}
+
+.active {
+    color: green;
+}
+
 /*-------Boxes of information--------*/
 .page-key-information-box{
     margin: auto;
@@ -33,6 +41,12 @@
 div.footer-sections {
     padding left: 10rem:
 }
+
+.footer-sections a {
+text-decoration: none;
+}
+
+
 
 .socials-links ul{
     padding-left: 0;

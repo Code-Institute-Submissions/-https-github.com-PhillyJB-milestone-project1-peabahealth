@@ -51,6 +51,11 @@ Have used the bootstrap navbar class property to help make my nav bar more fluid
 The search form, button and LogIn/register icons are now also nicely sat on the right of the nav icons and are also responsive within the navbar class property used.
 
 #### 2
+Trying to make the icons to select when hoveres over to chage opacity and phase over with new information about what service is offered by that icon. For example:
+On the index.html (homepage) the first icon for the Pharmacy service. the problem is that the over is going ontto the background of the image and not the actual image itself. This big will have to be fixed:
+
+#### Solution
+
 
 #### 3 
 
