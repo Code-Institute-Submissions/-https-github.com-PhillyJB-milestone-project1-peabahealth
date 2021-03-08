@@ -19,10 +19,12 @@
 
 .nav-item a:hover {
     color: green;
+    border: 3px solid green;
 }
 
 .active {
     color: green;
+    border: 3px solid green;
 }
 
 /*-------Boxes of information--------*/
@@ -45,8 +47,6 @@ div.footer-sections {
 .footer-sections a {
 text-decoration: none;
 }
-
-
 
 .socials-links ul{
     padding-left: 0;
