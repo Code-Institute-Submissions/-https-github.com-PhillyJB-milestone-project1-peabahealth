@@ -23,6 +23,7 @@
 
 .nav-item a i {
 display: block;
+font-size: xx-large;
 }
 
 #search-form-and-button {
@@ -42,12 +43,16 @@ display: block;
 }
 
 /*-------Boxes of information--------*/
+.page-key-information-box-row, .selection-icons-row, .footer-row{
+    margin-top: 40px;
+}
 .page-key-information-box{
     margin: auto;
     background-color: transparent;
     border: 5px blue solid;
     border-radius: 25%;
     text-align: center;
+    padding: 10px;
 }
 
 /*--------Icons to select on pages------*/
@@ -134,7 +139,6 @@ text-decoration: none;
 }
 
 /*-------Category Images-----*/
-
 
 .supplement-category-image {
   margin: 0;
