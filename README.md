@@ -59,6 +59,12 @@ Wireframes for the the four pages are available for viewing via the PDF file, th
 
 ## TESTING
 
+####Logo issue
+The logo being used at the top of all the pages is not to the best scale and the other logos with the PEABA HEALTH wording which would better do not scale very welll to fit in the designation area
+
+#### Solution
+Possibly getting a larger scale logo made up which will not distort on expansion with the PEABA HEALTH wording inlcuded. This will will add to the attraction of the site and make more appealing to the user.
+
 #### 1 Nav Icon Positioning
 Trouble with getting Nav Icons to sit in correct positions on all pages
 Having difficulty with tryin to get the Nav Icons to sit in the correct positions on the page. Would like to have the the Search Bar to the right of the nav bar and be fluid on smaller devices when mad smaller and search button to sit correctly.
