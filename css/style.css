@@ -34,6 +34,7 @@
 .nav-item a i {
 display: block;
 font-size: xx-large;
+margin: 2px;
 }
 
 #search-form-and-button {
@@ -41,20 +42,21 @@ font-size: xx-large;
 }
 
 .nav-item a:hover {
-    color:#19EB51;
-    border: 3px solid #19EB51;
+    color: #19EB51;
+    border: 2px solid #19EB51;
     border-radius: 25%;
 }
 
 .active {
-    color: #19EB51;
-    border: 3px solid#19EB51;
+    color: black;
+    background-color:#19EB51;
+    border: 2px solid black;
     border-radius: 25%;
 }
 
 /*-------Boxes of information--------*/
 .page-key-information-box-row, .selection-icons-row, .row-for-supplement-images, .footer-row{
-    margin-top: 40px;
+    margin-top: 30px;
 }
 .page-key-information-box{
     margin: auto;
@@ -89,6 +91,17 @@ color: black
     font-size: xx-large;
 }
 
+/*------all pages icons------*/
+
+
+/*-----Description text above each icon-----*/
+.description-of-category-main {
+    color: blue;
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+    margin-bottom: 5px;
+}
 
 /*home-page-icons-----*/
 .home-page-icon-images img{
@@ -99,6 +112,11 @@ color: black
     margin: auto;
     display: block;
 }
+.home-page-icon-images img:hover{
+    border: 8px solid #19EB51;
+}
+
+
 /*pharmacy-page-icons----*/
 .pharmacy-page-icons img{
     width: 70%;
@@ -110,9 +128,14 @@ color: black
     display: block;
 }
 
+.pharmacy-page-icons img:hover{
+    border: 8px solid #19EB51;
+}
+
 /*-----------------------------------Clinic-page-icons-----*/
 .consulation-form-section button{
-    width: 30%;
+    width: 40%;
+    margin-top: 5px;
     margin: auto;
     display: block;
 }
@@ -126,8 +149,14 @@ color: black
     margin: auto;
 }
 
+.clinic-page-icons img:hover {
+    border: 8px solid #19EB51;
+}
+
 /*-----------------------------------Wellbeing-page-icons-----*/
+
 /*Wellbeing-page-search bar and button*/
+
 #supplement-search-form input{
     display: block;
     width: 22%;
@@ -169,7 +198,7 @@ padding: 0;
 }
 
 .supplement-category-image:hover {
-  border: 3px solid #19EB51;
+  border: 8px solid #19EB51;
 }
 
 .supplement-category-image img {
