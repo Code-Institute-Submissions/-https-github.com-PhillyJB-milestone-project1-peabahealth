@@ -5,6 +5,10 @@
 
 /* -------------------------Header-------------------------------*/
 /*---Main Logo - Hero Logo-------*/
+body {
+    background-image: url(../assets/images/logos/background-image-best-green-hill-desktop-wallpaper.jpg);
+    background-image: no-repeat center center;
+}
 #the-main-logo {
     width: 20%;
     height: 20%;
@@ -13,9 +17,8 @@
 }
 
 /*------Navbar--------*/
-
 .navbar, .footer-row {
-    background-color: #DFE1E6;
+    background-color: hsl(223, 12%, 89%, 0.7);
 }
 
 .navbar button {
@@ -29,12 +32,17 @@
 
 .nav-item {
     text-align: center;
+    color: #19EB51;
 }
 
 .nav-item a i {
 display: block;
 font-size: xx-large;
+color: black;
 margin: 2px;
+}
+.nav-item a {
+    color: black;
 }
 
 #search-form-and-button {
@@ -42,7 +50,6 @@ margin: 2px;
 }
 
 .nav-item a:hover {
-    color: #19EB51;
     border: 2px solid #19EB51;
     border-radius: 25%;
 }
@@ -56,14 +63,15 @@ margin: 2px;
 
 /*-------Boxes of information--------*/
 .page-key-information-box-row, .selection-icons-row, .row-for-supplement-images, .footer-row{
-    margin-top: 30px;
+    margin-top: 25px;
 }
 .page-key-information-box{
     margin: auto;
-    background-color: transparent;
-    border: 5px blue solid;
+    background-color: hsl(223, 12%, 89%, 0.7);
+    border: 5px black solid;
     border-radius: 25%;
     text-align: center;
+    color: black;
     padding: 10px;
 }
 
@@ -96,7 +104,8 @@ color: black
 
 /*-----Description text above each icon-----*/
 .description-of-category-main {
-    color: blue;
+    color: black;
+    text-decoration: black;
     font-weight: bold;
     font-size: large;
     text-align: center;
@@ -108,12 +117,16 @@ color: black
     width: 70%;
     height: 80%;
     border-radius: 25%;
-    border: 3px blue solid;
+    border: 3px solid hsl(223, 12%, 89%);
     margin: auto;
     display: block;
 }
 .home-page-icon-images img:hover{
     border: 8px solid #19EB51;
+}
+
+.selection-icons-row a {
+    text-decoration: none;
 }
 
 
@@ -122,7 +135,7 @@ color: black
     width: 70%;
     height: 80%;
     border-radius: 25%;
-    border: 3px blue solid;
+    border: 3px solid hsl(223, 12%, 89%);
     padding: 0%;
     margin: auto;
     display: block;
@@ -133,17 +146,24 @@ color: black
 }
 
 /*-----------------------------------Clinic-page-icons-----*/
+.consulation-form-section {
+    margin-top: 15px;
+}
 .consulation-form-section button{
     width: 40%;
-    margin-top: 5px;
+    margin-top: 10px;
     margin: auto;
     display: block;
+    font-weight: bold;
+    color: black;
+    border: 1px solid black;
+    background-color:hsl(223, 12%, 89%);
 }
 .clinic-page-icons img{
     width: 70%;
     height: 80%;
     border-radius: 25%;
-    border: 3px blue solid;
+    border: 3px solid hsl(223, 12%, 89%);
     padding: 0%;
     display: block;
     margin: auto;
@@ -152,20 +172,22 @@ color: black
 .clinic-page-icons img:hover {
     border: 8px solid #19EB51;
 }
-
 /*-----------------------------------Wellbeing-page-icons-----*/
 
 /*Wellbeing-page-search bar and button*/
+
+/* code for animated supplement search bar sourced from w3schools.com - https://www.w3schools.com/css/tryit.asp?filename=trycss_form_search_anim----*/
 
 #supplement-search-form input{
     display: block;
     width: 22%;
     margin: auto;
     box-sizing: border-box;
-    border: 2px solid blue;
+    border: 2px solid black;
     border-radius: 4px;
     font-size: 16px;
-    background-color: white;
+    color: rgb(0,0,0, 1.5);
+    background-color: hsl(223, 12%, 89%, 0.85);
     padding: 12px 20px 12px 20px;
     transition: width 0.4s ease-in-out;
     -moz-transition: width 0.4s ease-in-out;
@@ -191,7 +213,7 @@ width: 250px;
 height: 250px;
 margin: auto;
 margin-top: 10px;
-border: 3px solid blue;
+border: 3px solid hsl(223, 12%, 89%);
 border-radius: 25%;
 float: none;
 padding: 0;
@@ -210,6 +232,8 @@ padding: 0;
 
 div.description-of-category {
   font-size: 15px;
+  color: white;
+  font-weight: bolder;
   text-align: center;
   height: 10%;
   padding: auto;
