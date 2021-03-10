@@ -95,6 +95,8 @@ Wireframes for the the four pages are available for viewing via the PDF file, th
 
 ## TESTING
 
+### Bugs Discovered
+
 #### 1a) Logo issue
 The logo being used at the top of all the pages is not to the best scale and the other logos with the PEABA HEALTH wording which would better do not scale very welll to fit in the designation area
 
@@ -134,6 +136,15 @@ The Clinic Page Icon keeps on floating to the left of the screen rather than sta
 #### 5b) Solution
 Because this icon is sitting in a bootstrap row on its own, I solved this problem by creating two extra div's on either side of the div for the icon therefor giving it a col-4 split rather than something bigger which is causing the sizin problem as all the icons are responsive rather than being given fixed sizes. This meant that based on the mwidth ans height %s set for the images it scaled the icon down to a similar size to the other oage icons.
 
+### Usability testing and responsiveness
+
+- User arrives on Site home page
+
+
 ## DEPLOYMENT
+
+Project was developed using [gitpod](https://www.gitpod.io/) and was regualr commited to git and pushed up to github. The deployment was carried out as follows:
+
+1. 
 
 ## CREDITS
