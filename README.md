@@ -65,16 +65,19 @@ Wireframes for the the four pages are available for viewing via the PDF file, th
 
 #### Home Page
 -Pharmacy pot with Rx image taken from google via [Pain Sclae](https://www.painscale.com/article/medication-options-for-postural-orthostatic-tachycardia-syndrome-pots)
--dotors image on home page taken from google via [Doctors Online](https://kyiv.amcenters.com/programs/specialized-programs/doctor-online/)
+
+-dotors image on home page taken from google via [amitahealth.org](https://www.amitahealth.org/services/telehealth/virtual-doctor-visits) via google images search
+
 -Supplement on table in wellbing icon image taken from goodle via [Whole foods website](https://www.wholefoodsmarket.co.uk/)
 
 #### Pharmacy Page
 -Private Rx Image Image taken from google via [bizjournals](https://www.bizjournals.com/cincinnati/news/2019/02/12/5-questions-to-ask-your-doctor-if-you-re.html) via google images search
 -Over the Counter(P medicines icon) image taken from google via [Pharmaceutical Journal](https://pharmaceutical-journal.com/article/news/london-minor-ailments-scheme-to-close-at-end-of-march-2020) via google images search
+
 -Patient Group Directions (PGDs) image taken from google via [medeconomics](https://www.medeconomics.co.uk/article/1383102/cqc-essentials-patient-group-directions-pgds-patient-specific-directions-psds) via google images search
 
 #### Clinic Page
--virtual dotors image for clinic icon taken from google via [entandallergyspecialists.com](https://www.entandallergyspecialists.com/ent-virtual-doctor-visits/) via google images search
+-virtual dotors image for clinic icon taken from google via [amitahealth.org](https://www.amitahealth.org/services/telehealth/virtual-doctor-visits) via google images search
 
 #### Wellbeing Page
 
