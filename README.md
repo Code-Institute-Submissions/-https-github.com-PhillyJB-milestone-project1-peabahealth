@@ -17,7 +17,7 @@ The Online Clinic serves to connect the user to a highly skilled healthcare prof
 Through the magnificent Wellbeing Shop, users are able to purchase dietary supplements they are seeking or have been recommended to take by a healthcare professional.
 
 ### **Wireframes**
-Wireframes for the the four pages are available for viewing via the PDF file, these were created using the web based version of [Balsamiq](https://balsamiq.com/):
+Wireframes for the four pages are available for viewing via the PDF file, these were created using the web based version of [Balsamiq](https://balsamiq.com/):
 
 /assets/wireframes/peabahealth-ms1-wireframes.pdf
 
@@ -30,7 +30,7 @@ Wireframes for the the four pages are available for viewing via the PDF file, th
 
 * Online Clinic Page - A user can go onto the Online clinic and be able to read what is offered within the Online clinic description. Again at the moment the clicking onto the Icons only refreshes the page back onto the current page as addiotnal features are too be implemented on future features.
 
-*Consultation Form Page - A User can click on the "Fill out consultation form button on the clinic page and this takes them to the consultation form page where they are able to complete a consulation form which currently does not go anywhere but on clicking submit clears all the information the user has input. 
+* Consultation Form Page - A User can click on the "Fill out consultation form button on the clinic page and this takes them to the consultation form page where they are able to complete a consulation form which currently does not go anywhere but on clicking submit clears all the information the user has input. 
 
 * Wellbeing Shop Page - A user once on the Wellbeing Shop page can search for their desired supplement/item using the search bar or can browse the range of supplements based on the different categories diplayed - at the moment eight in total. Again at the moment the clicking onto the icons only refreshes the page back onto the current page as addiotnal features are too be implemented on future features.
 
@@ -46,7 +46,7 @@ Wireframes for the the four pages are available for viewing via the PDF file, th
     * Pharmacy (P) medicines - Users will be able to buy over the counter P medicines depending on their symptoms and concerns and have these posted out to them. This will be done via a patient having a virtual consulation with a Pharmacist or filling out a questionaire. A safety feature will be in place to make sure individuals do not abuse certain OTC medications and to make sure the correct area is being treated.
 
 * Online Clinic Page -
-    * Consultation Form Page - User will recieve analert saying their form has been succesfully submitted and a confirmation email has also been sent to their email.
+    * Consultation Form Page - User will recieve an alert saying their form has been succesfully submitted and a confirmation email has also been sent to their email.
     * A profile section with all user's information including blood test results, Supplement usage, prescription and wellbeing shop invoice history.
     * Users will be able to book a video consultation service to speak with a Healthcare professional. So web app based video meeting service to be added.
     * Blood testing service. Users will be able to book blood tests to have blood works undertaken to determine a condition or a deficiency in a vitamin or mineral etc. There will also be a home test kit option to order for home delivery. - If your condition requires blood tests or any further tests to be done this can all be arranged through your Peaba Health account and all you have to do is provide the sample at one of our designated centres and the rest will be taken care off. If you cannot make it to a centre we will sort home testing for you.
