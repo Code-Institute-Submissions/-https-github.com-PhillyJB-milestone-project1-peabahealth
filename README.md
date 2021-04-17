@@ -100,6 +100,12 @@ Wireframes for the the four pages are available for viewing via the PDF file, th
 
 ### Bugs Discovered
 
+#### Validating the code with W3 validator - HTML:
+Using the [w3c Validator](http://validator.w3.org/) - Some errors were flagged up on the html files of this project. The main issue being that I was using <a> tags as direct children of <ul> tags which is considered invalid. On this information I swapped arround the the <li> tags with my <a> tags so that the <a> was a child of my <li> tags. This solved the error flaggind up on the validator when I inserted my code with Direct Inout option.
+
+#### Validating the code with W3 validator - CSS:
+Using the [w3c Validator CSS](http://jigsaw.w3.org/css-validator/) - 
+
 #### 1a) Logo issue
 The logo being used at the top of all the pages is not to the best scale and the other logos with the PEABA HEALTH wording which would better do not scale very welll to fit in the designation area
 
