@@ -2,7 +2,9 @@
 
 ## UX - User Experience
 Peaba Health is a brilliant platform that combines an Online Pharmacy, Health Clinic and Wellbeing Shop all under one roof. The site makes it easy for users to have medication supplied as well as seek trusted medical advice and or 
-diagnosis and on top of that find and order their desired dietary supplements.<br>
+diagnosis and on top of that find and order their desired dietary supplements.
+
+### Home Page
 
 ### Pharmacy
 Users are able to use the online pharmacy to have their Private prescriptions fulfilled as well as certain prescription only medicines provided without prescription through PGDS (Patient Group Directives).The prescriptions can those issued by an external Health professional or from an in house prescribing professional after a consultation. Users can also purchase medications you can only find in a pharmacy called Pharmacy(P) medicines Over the "virtual" Counter (OTC).
@@ -59,9 +61,7 @@ Wireframes for the the four pages are available for viewing via the PDF file, th
 * Colours   - [color-wheel](https://color.adobe.com/create/color-wheel)
 
 ## CONTENT
-
 #### Website Bacground image taken from [bgwall.net](https://bgwall.net/best-green-hill-desktop-wallpaper-bgwall.html)
-
 
 #### Home Page
 -Pharmacy pot with Rx image taken from google via [Pain Sclae](https://www.painscale.com/article/medication-options-for-postural-orthostatic-tachycardia-syndrome-pots)
