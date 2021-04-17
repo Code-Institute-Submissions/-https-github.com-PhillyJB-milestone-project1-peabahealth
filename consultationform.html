@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl"
+          crossorigin="anonymous"/>
+        <link
+          rel="stylesheet"
+          href="https://use.fontawesome.com/releases/v5.15.1/css/all.css"
+          integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp"
+          crossorigin="anonymous"/>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css">
+        <link rel="stylesheet" href="css/style.css" type="text/css" />
+    
+        <title>Peaba Health</title>
+      </head>
+<body>
+    <header>
+        <!--Landing image-->
+        <div>
+          <a href="index.html">
+            <img
+              src="assets/images/logos/peaba-health-logo.png"
+              alt="peaba-health-logo"
+              id="the-main-logo"
+            />
+          </a>
+        </div>
+  
+        <!--Nav Bar-->
+        <div class="row">
+          <nav class="navbar navbar-expand-md justify-content-center">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link" href="index.html"
+                  ><i class="fas fa-home"></i>Home</a
+                >
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="pharmacypage.html"
+                  ><i class="fas fa-pills"></i>Pharmacy</a
+                >
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" href="clinincpage.html"
+                  ><i class="fas fa-user-md"></i>Clinic</a
+                >
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="wellbeingshoppage.html"
+                  ><i class="fas fa-store"></i>Wellbeing Shop</a
+                >
+              </li>
+  
+              <li><form class="form-inline" action="#" id="search-form-and-button">
+                <input
+                  class="form-control mr-sm-2"
+                  type="text"
+                  placeholder="Search"
+                />
+              </form></li>
+  
+              <!--search button outside of form to keep in line(for the moment-->
+              <!--Log in register button-->
+              <li><button class="btn" type="submit">LogIn/Register
+              </button><button class="btn" type="submit">Search
+            </button></li>
+  
+            </ul>
+          </nav>
+        </div>
+      </header>  
+<div>
+    <h3 id="consultation-form-header">Consultation Form</h3>
+    <form  class="submission-forms" action="#">
+        <label for="fname">First name:</label><br>
+        <input type="text" id="fname" name="fname" required><br>
+
+        <label for="lname">Last name:</label><br>
+        <input type="text" id="lname" name="lname" required><br>
+
+        <label for="email">Email address:</label><br>
+        <input type="email" id="email" name="mail" required><br>
+
+        <label for="mob-number">Mobile Number:</label><br>
+        <input type="text" id="mob-number" name="mob-number" value="+44" required><br>
+
+        <label for="dob">Date of Birth - Written in format of dd/mm/yyyy:</label><br>
+        <input type="text" id="dob" name="dob" required><br>
+
+        <label for="symptoms">Please give a description of the symptoms<br> you are experiencing using no more than 500 characters:</label><br>
+        <input type="text" id="symptoms" name="symptoms" required><br>
+
+        <label for="medication">Please list all current medication and supplements<br>you are taking including strength and doses:</label><br>
+        <input type="text" id="medication" name="medication" required><br><br>
+
+        <input type="submit" value="Submit">
+    </form> 
+</div>
+<footer class="container-fluid">
+    <!--Our services on the footer section-->
+  <div class="row footer-row">
+    <div class="col-md-4 footer-sections">
+      <p>Our Services</p>
+      <ul>
+        <li><a href="index.html">About us</a></li>
+        <li><a href="pharmacypage.html">Pharmacy</a></li>
+        <li><a href="clinincpage.html">Clinic</a></li>
+        <li><a href="wellbeingshoppage.html">Wellbeing Shop</a></li>
+      </ul>
+    </div>
+    <!--customer service and FAQs-->
+    <div class="col-md-4 footer-sections">
+      <p>Customer Service</p>
+      <ul>
+        <li><a href="index.html">Contact Us</a></li>
+        <li><a href="index.html">FAQs</a></li>
+        <li><a href="index.html">What our service users say</a></li>
+        <li><a href="index.html">Complaint procedure</a></li>
+      </ul>
+    </div>
+    <!--social media links-->
+    <div class="col-md-4 footer-sections socials-links">
+      <p>Follow Us</p>
+      <ul>
+        <li><a href="index.html"><i class="fab fa-facebook-square"></i></a></li>
+        <li><a href="index.html"><i class="fab fa-twitter-square"></i></a></li>
+        <li><a href="index.html"><i class="fab fa-linkedin"></i></a></li>
+        <li><a href="index.html"><i class="fab fa-instagram-square"></i></a></li>
+      </ul>
+    </div>
+  </div>
+</footer> 
+</body>
+</html>
