@@ -5,12 +5,13 @@ Peaba Health is a brilliant platform that combines an Online Pharmacy, Health Cl
 diagnosis and on top of that find and order their desired dietary supplements.
 
 ### Home Page
+The User lands on the home page of the site where they are presented with a logo at the top and the nav bar underneath and a brief About us section explaining the website. On the Homepage the user is greeted with the three icons for the sites main features - 1)Pharmacy 2)Clinic 3)Wellbeing Shop.
 
-### Pharmacy
-Users are able to use the online pharmacy to have their Private prescriptions fulfilled as well as certain prescription only medicines provided without prescription through PGDS (Patient Group Directives).The prescriptions can those issued by an external Health professional or from an in house prescribing professional after a consultation. Users can also purchase medications you can only find in a pharmacy called Pharmacy(P) medicines Over the "virtual" Counter (OTC).
+### Pharmacy Page
+Users are able to use the online pharmacy to have their Private prescriptions fulfilled as well as certain prescription only medicines provided without prescription through PGDS (Patient Group Directives).The prescriptions can be those issued by an external Health professional or from an in house prescribing professional after a consultation. Users can also purchase medications you can only find in a pharmacy called Pharmacy (P) medicines in the Over the Counter (OTC) section.
 
-### Clinic
- The Health Clinic serves to connect users with highly skilled healthcare professionals and allows a medium to provide high quality consultations and diagnosis
+### Online Clinic
+The Online Clinic serves to connect the user to a highly skilled healthcare professionals and allows a medium to provide high quality consultations and diagnosis.
 
 ### Wellbeing Shop
 Through the magnificent Wellbeing Shop, users are able to purchase dietary supplements they are seeking or have been recommended to take by a healthcare professional.
@@ -23,33 +24,33 @@ Wireframes for the the four pages are available for viewing via the PDF file, th
 ## FEATURES
 
 ### **Existing Features**
-* HomePage Page - A user can scroll through each page freely at the moment without having to log in or enter any credentials. A user immediately read on the Homepage the "About Us" section and get an immediate idea about what is offered on the site. User can then scroll down to select an area to go into from the three options avaialble.
+* HomePage Page - A user can scroll through each page freely at the moment without having to log in or enter any credentials. A user can immediately read on the Homepage the "About Us" section and get an immediate idea about what is offered on the site. User can then scroll down to select an area to go into from the three options avaialble.
 
-* Pharmacy Page - A user can then decide to click on the Pharmacy Icon either from the nav bar or icon on the home page and be taken to the Pharmacy page where they can see the three options avaialble to them on the Pharmacy page.  At the moment the clicking onto the Icons only refreshes the page back onto the current page as addiotnal features are too be implemented on future features.
+* Pharmacy Page - A user can then decide to click on the Pharmacy Icon either from the nav bar or icon on the home page and be taken to the Pharmacy page where they can see the three options avaialble to them on the Pharmacy page.  At the moment the clicking onto the Icons only refreshes the page back onto the current page as additional features are too be implemented on future features.
 
 * Online Clinic Page - A user can go onto the Online clinic and be able to read what is offered within the Online clinic description. Again at the moment the clicking onto the Icons only refreshes the page back onto the current page as addiotnal features are too be implemented on future features.
 
-* Wellbeing Shop Page - User Once on the Wellbeing Shop page can search for their desired supplement/item using the search bar or can browse the range of supplements based on the different categories diplayed - at the moment 8 in total. Again At the moment the clicking onto the Icons only refreshes the page back onto the current page as addiotnal features are too be implemented on future features.
+* Wellbeing Shop Page - A user once on the Wellbeing Shop page can search for their desired supplement/item using the search bar or can browse the range of supplements based on the different categories diplayed - at the moment eight in total. Again at the moment the clicking onto the icons only refreshes the page back onto the current page as addiotnal features are too be implemented on future features.
 
 ### **Future Features**
 * Home Page - Users will be able to log in or register into their account and be able to access more personal features of the site. including:
-    * Each Icon if hovered over will give you more information as to what that feature is about. Then once not hovered over the original icon is redisplayed.
-    * LOG IN/REGISTER - Users will be able to sign in or register to access their own personal account. This account will have their ordering history, any subscription information like regular supplements supplied, Pharmacy prescription dispensing record. Also any clinic diagnosis or consulation results. This Account feature will extensively help the usr taylor what they require from the site and fully track all transactions.
+    * Each Icon if hovered over will give you more information as to what that feature is about. Then once not hovered over the original icon is redisplayed. - This will be a Javascript added application
+    * LOG IN/REGISTER - Users will be able to sign in or register to access their own personal account. This account will have their ordering history, any subscription information like regular supplements supplied, Pharmacy prescription dispensing record. Also any clinic diagnosis or consulation results. This account feature will extensively help the user taylor what they require from the site and fully track all transactions.
 
 * Pharmacy Page -
-    * Private prescription - Users will be able to scan a copy of their Private Prescription or upload an image of their Prescription and then have it legally and clinically checked and then dispensed by the Pharmacy team. This feature will again require users to log in access their account.
-    *Patient Group Directions - This feature will allow a user to access or be given prescriptiononly medication without a prescriptiont through specific PGD(s) that allow the Pharmacy to sell certain medications wihtout an actual prescription as long as the individual meets the certain criteria.
-    This feature will work via a user selecting the area of treamtnet for example erectile disfunction or hayfever and then carryinf out the necessary questionaires which are then passed onto the Pharmacy team to assess. If all ok then the medication is dispensed and posted to the patient. Or if necessary a contact is made with the user.
-    *Pharmcy (P) medicines - Users will be able to buy over the counter P medicines depending on their symptoms and concerns and have these posted out to them. This will be done via a patient having a virtual consulation with a Pharmacist or fillin out a questionaire. Safetyu feature will be in place to make sure individuals do not abuse certain OTC medications and to make sure the correct area is being treated.
+    * Private prescription - Users will be able to scan a copy of their Private Prescription or upload an image of their prescription and then have it legally and clinically checked and then dispensed by the Pharmacy team. This feature will again require users to log in to access their account.
+    * Patient Group Directions - This feature will allow a user to access or be given prescription only medication without a prescriptiont through specific PGD(s) that allow the Pharmacy to sell certain medications wihtout an actual prescription as long as the individual meets the certain criteria.
+    This feature will work via a user selecting the area of treamtnet for example erectile disfunction or hayfever and then carrying out the necessary questionaires which are then passed onto the Pharmacy team to assess. If all ok then the medication is dispensed and posted to the patient. Or if necessary contact is made with the user.
+    * Pharmacy (P) medicines - Users will be able to buy over the counter P medicines depending on their symptoms and concerns and have these posted out to them. This will be done via a patient having a virtual consulation with a Pharmacist or filling out a questionaire. A safety feature will be in place to make sure individuals do not abuse certain OTC medications and to make sure the correct area is being treated.
 
 * Online Clinic Page -
-    * A profile section with all Users information including blood test results, Supplement usage, Prescription and wellbing shop invoice history
-    * Users will be able to book a Video Consultation Service to speak with a Healthcare professional. So web app based video meeting service to be added.
+    * A profile section with all user's information including blood test results, Supplement usage, prescription and wellbeing shop invoice history.
+    * Users will be able to book a video consultation service to speak with a Healthcare professional. So web app based video meeting service to be added.
     * Blood testing service. Users will be able to book blood tests to have blood works undertaken to determine a condition or a deficiency in a vitamin or mineral etc. There will also be a home test kit option to order for home delivery. - If your condition requires blood tests or any further tests to be done this can all be arranged through your Peaba Health account and all you have to do is provide the sample at one of our designated centres and the rest will be taken care off. If you cannot make it to a centre we will sort home testing for you.
 * Wellbeing Shop Page - 
     * Users will be able to subscribe to a regular automatic ordering system of their supplements to make sure they stay stocked on their supplements.
-    *Once a user is logged in their shopping basket will be a constant feature on their nav bar section in the right hand side. This is will allow the user to be able to track their spending even if they for examplewere notready to checkout and purchade but still wanted to access other areas of the site.
-    *Payment system to take Digital payments to be added.
+    *Once a user is logged in their shopping basket will be a constant feature on their nav bar section in the right hand side. This will allow the user to be able to track their spending even if they, for example, were not ready to checkout and purchase but still wanted to access other areas of the site.
+    * Payment system feature to take digital payments to be added - e.g. Paypal or World Pay.
 
 ## TECHNOLOLGIES USED
 * Language  - HTML5
@@ -61,7 +62,8 @@ Wireframes for the the four pages are available for viewing via the PDF file, th
 * Colours   - [color-wheel](https://color.adobe.com/create/color-wheel)
 
 ## CONTENT
-#### Website Bacground image taken from [bgwall.net](https://bgwall.net/best-green-hill-desktop-wallpaper-bgwall.html)
+
+#### Website background image taken from [bgwall.net](https://bgwall.net/best-green-hill-desktop-wallpaper-bgwall.html)
 
 #### Home Page
 -Pharmacy pot with Rx image taken from google via [Pain Sclae](https://www.painscale.com/article/medication-options-for-postural-orthostatic-tachycardia-syndrome-pots)
@@ -80,7 +82,6 @@ Wireframes for the the four pages are available for viewing via the PDF file, th
 -virtual dotors image for clinic icon taken from google via [amitahealth.org](https://www.amitahealth.org/services/telehealth/virtual-doctor-visits) via google images search
 
 #### Wellbeing Page
-
  - several of the the used icon images are taken from following sites:
     * Bone&Muscle Health Image - taken from [northbridgechiro.com](https://www.northbridgechiro.com.au/blog/spotting-the-differences-between-muscle-and-bone-problems/) via google images search
     * Brain Function image taken fomr [Doctor's Best](https://www.amazon.sg/Doctors-Best-Strength-Promotes-Function/dp/B006P7FA9I) Amazon page via google images search
@@ -97,31 +98,25 @@ Wireframes for the the four pages are available for viewing via the PDF file, th
 
 
 ## TESTING
+### Moving throught the pages
+Home Page - User Clicks on any of the 4 navigation list items and this accurately take user to the corresponding page. The nav bar stays consistent throughout all the pages and the user can see what page they are on as the corresponding icon for that page changes colour in the nav bar and it becomes highligthed green<br>
+
+Footer Features - User can also use the "Our Servies" section links at the bottom of the pages to navigate as the links are clickable and can take you to any of the pages. For example - User is on Clinic Page and gets to the bottom of page and wants to go the Wellbeing Shop page, rather than scroll all the way back to top of page they can click on the Wellbeing Shop link in the footer. Theses links are working accurately.
 
 ### Bugs Discovered
 
-#### Validating the code with W3 validator - HTML:
-Using the [w3c Validator](http://validator.w3.org/) - 
-    *Some errors were flagged up on the html files of this project. The main issue being that I was using <a> tags as direct children of <ul> tags which is considered invalid. On this information I swapped arround the the <li> tags with my <a> tags so that the <a> was a child of my <li> tags. This solved the error flaggind up on the validator when I inserted my code with Direct Inout option.
-
-#### Validating the code with W3 validator - CSS:
-Using the [w3c Validator CSS](http://jigsaw.w3.org/css-validator/)
-    *And error message was generated with the validator in regards to the background image of the body. The background image value of no-repeat center center was not necessary  - on removing this propert in the CSS the image reamined the same and stayed responsive on resizing with no bugs.
-
-    *Line 82 in the CSS code had an error with the padding on the left of the divs in the footer section. The bug as fixed via the correct syntax of the "padding-left" being used - this was initially incorectly written as "padding left" as two seperate words and then a value of 2rem used to space the wording/icons away from the edge of the div.
-
 #### 1a) Logo issue
-The logo being used at the top of all the pages is not to the best scale and the other logos with the PEABA HEALTH wording which would better do not scale very welll to fit in the designation area
+The logo being used at the top of all the pages is not to the best scale and the other logos with the 'PEABA HEALTH' wording which would be better ad brand the site more do not scale very well to fit in the designated area
 
 #### 1b) Solution
 Possibly getting a larger scale logo made up which will not distort on expansion with the PEABA HEALTH wording inlcuded. This will will add to the attraction of the site and make more appealing to the user.
 
 #### 1a) Nav Icon Positioning
 Trouble with getting Nav Icons to sit in correct positions on all pages
-Having difficulty with tryin to get the Nav Icons to sit in the correct positions on the page. Would like to have the the Search Bar to the right of the nav bar and be fluid on smaller devices when mad smaller and search button to sit correctly.
+Having difficulty with trying to get the Nav Icons to sit in the correct positions on the page. Would like to have the Search Bar to the right of the nav bar and be fluid on smaller devices when made smaller and search button to sit correctly.
 
 #### 1b) Solution
-Have used the bootstrap navbar class property to help make my nav bar more fluid and responsive with all categories going into a single line on screen sized smaller than 768px.
+Have used the bootstrap navbar class property to help make the nav bar more fluid and responsive with all categories going into a single line on screen sized smaller than 768px.
 
 The search form, button and LogIn/register icons are now also nicely sat on the right of the nav icons and are also responsive within the navbar class property used.
 
@@ -135,28 +130,38 @@ This feature has been left out and is to be added on future versions of website 
 This is not highlighting green the same way the image is
 
 #### 3b) Solution
-Manage to sort this issue by using the correct class to target the element with the CSS styling Howevrer on reflection it did not look as good as expected and so removed the feature
+Manage to sort this issue by using the correct class to target the element with the CSS styling However on reflection it did not look as good as expected and so removed the feature
 
 #### 4a) Wellbeing shop page - icons were not spacing correctly
 When resizing the responsiveness of the category icons they were not spacing correctly.
 
 #### 4b) Solution
-I set each category icon with a fixed width and height of 250px and on top of set the margin to auto which in turn spaced them correctly. Using the Bootstrap row and col features to set the amount if icons per line depending on the screen size correctly.
+I set each category icon with a fixed width and height of 250px and on top of that set the margin to auto which in turn spaced them correctly. Using the Bootstrap row and col features to set the amount of icons per line depending on the screen size correctly.
 
-#### 5a) CLinic page Icon
-The Clinic Page Icon keeps on floating to the left of the screen rather than staying central. Also its sizing is not to the same sixing as the other icons on other pages which is causing visual problems as it is coming up much bigger
+#### 5a) Clinic page Icon
+The Clinic Page Icon keeps on floating to the left of the screen rather than staying central. Also its sizing is not to the same sizing as the other icons on other pages which is causing visual problems as it is coming up much bigger
 
 #### 5b) Solution
-Because this icon is sitting in a bootstrap row on its own, I solved this problem by creating two extra div's on either side of the div for the icon therefor giving it a col-4 split rather than something bigger which is causing the sizin problem as all the icons are responsive rather than being given fixed sizes. This meant that based on the mwidth ans height %s set for the images it scaled the icon down to a similar size to the other oage icons.
+Because this icon is sitting in a bootstrap row on its own, I solved this problem by creating two extra divs on either side of the div for the icon therefor giving it a col-4 split rather than something bigger which is causing the sizing problem as all the icons are responsive rather than being given fixed sizes. This meant that based on the width and height percentages set for the images it scaled the icon down to a similar size to the other page icons.
 
-### Usability testing and responsiveness
+#### Validating the code with W3 validator - HTML:
+Using the [w3c Validator](http://validator.w3.org/) - 
+    *Some errors were flagged up on the html files of this project. The main issue being that I was using <a> tags as direct children of <ul> tags which is considered invalid. On this information I swapped arround the the <li> tags with my <a> tags so that the <a> was a child of my <li> tags. This solved the error flaggind up on the validator when I inserted my code with Direct Inout option.
 
-- User arrives on Site home page
+#### Validating the code with W3 validator - CSS:
+Using the [w3c Validator CSS](http://jigsaw.w3.org/css-validator/)
+    * And error message was generated with the validator in regards to the background image of the body. The background image value of no-repeat center center was not necessary - on removing this propert in the CSS the image reamined the same and stayed responsive on resizing with no bugs.
+
+    * Line 82 in the CSS code had an error with the padding on the left of the divs in the footer section. The bug as fixed via the correct syntax of the "padding-left" being used - this was initially incorectly written as "padding left" as two seperate words and then a value of 2rem used to space the wording/icons away from the edge of the div.
+
+
+### Testing responsiveness
+- Using Google DevTools - Able to resize each page using the responsive feature to see how the pages alter through the range of screen sizes. - This shows the icons maintain the adequate spacing and layots to keep information presentable and maintain the appeal of the pages. 
 
 
 ## DEPLOYMENT
 
-Project was developed using [gitpod](https://www.gitpod.io/) and was regualr commited to git and pushed up to github. The deployment was carried out as follows:
+Project was developed using [gitpod](https://www.gitpod.io/) and was regularly commited to git and pushed up to github. The deployment was carried out as follows:
 
 1. 
 
