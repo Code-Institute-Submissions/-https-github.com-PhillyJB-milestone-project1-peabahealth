@@ -11,7 +11,7 @@ The User lands on the home page of the site where they are presented with a logo
 Users are able to use the online pharmacy to have their Private prescriptions fulfilled as well as certain prescription only medicines provided without prescription through PGDS (Patient Group Directives).The prescriptions can be those issued by an external Health professional or from an in house prescribing professional after a consultation. Users can also purchase medications you can only find in a pharmacy called Pharmacy (P) medicines in the Over the Counter (OTC) section.
 
 ### Online Clinic
-The Online Clinic serves to connect the user to a highly skilled healthcare professionals and allows a medium to provide high quality consultations and diagnosis.
+The Online Clinic serves to connect the user to highly skilled healthcare professionals and allows a medium to provide high quality consultations and diagnosis.
 
 ### Wellbeing Shop
 Through the magnificent Wellbeing Shop, users are able to purchase dietary supplements they are seeking or have been recommended to take by a healthcare professional.
@@ -37,6 +37,7 @@ Wireframes for the four pages are available for viewing via the PDF file, these 
 ### **Future Features**
 * Home Page - Users will be able to log in or register into their account and be able to access more personal features of the site. including:
     * Each Icon if hovered over will give you more information as to what that feature is about. Then once not hovered over the original icon is redisplayed. - This will be a Javascript added application
+
     * LOG IN/REGISTER - Users will be able to sign in or register to access their own personal account. This account will have their ordering history, any subscription information like regular supplements supplied, Pharmacy prescription dispensing record. Also any clinic diagnosis or consulation results. This account feature will extensively help the user taylor what they require from the site and fully track all transactions.
 
 * Pharmacy Page -
@@ -63,6 +64,7 @@ Wireframes for the four pages are available for viewing via the PDF file, these 
 * Fonts     - [Googlefonts](https://fonts.google.com/?query=oswal&preview.text_type=custom) 
 * CSS and HTML guidance and code - [W3schools](http://w3schools.com
 * Colours   - [color-wheel](https://color.adobe.com/create/color-wheel)
+* Extensions used include the .theia files and templates from the [Code Institute](https://github.com/Code-Institute-Org/gitpod-full-template) gitpod full template from GitHub
 
 ## CONTENT
 
@@ -108,43 +110,43 @@ Footer Features - User can also use the "Our Servies" section links at the botto
 
 ### Bugs Discovered
 
-#### 1a) Logo issue
+#### 1) Logo issue
 The logo being used at the top of all the pages is not to the best scale and the other logos with the 'PEABA HEALTH' wording which would be better ad brand the site more do not scale very well to fit in the designated area
 
-#### 1b) Solution
+#### 1) Solution
 Possibly getting a larger scale logo made up which will not distort on expansion with the PEABA HEALTH wording inlcuded. This will will add to the attraction of the site and make more appealing to the user.
 
-#### 1a) Nav Icon Positioning
+#### 2) Nav Icon Positioning
 Trouble with getting Nav Icons to sit in correct positions on all pages
 Having difficulty with trying to get the Nav Icons to sit in the correct positions on the page. Would like to have the Search Bar to the right of the nav bar and be fluid on smaller devices when made smaller and search button to sit correctly.
 
-#### 1b) Solution
+#### 2) Solution
 Have used the bootstrap navbar class property to help make the nav bar more fluid and responsive with all categories going into a single line on screen sized smaller than 768px.
 
 The search form, button and LogIn/register icons are now also nicely sat on the right of the nav icons and are also responsive within the navbar class property used.
 
-#### 2a) Hovering over Icons/thumbnails to bring up a descriptive text
+#### 3) Hovering over Icons/thumbnails to bring up a descriptive text
 Trouble getting icons when hovered over to change opacity and have descriptive text appear on over them - 
 
-#### 2b)Solution
+#### 3)Solution
 This feature has been left out and is to be added on future versions of website with more dynamic web features used.
 
-#### 3a) Hovering over descriptive text above each category
+#### 4) Hovering over descriptive text above each category
 This is not highlighting green the same way the image is
 
-#### 3b) Solution
+#### 4) Solution
 Manage to sort this issue by using the correct class to target the element with the CSS styling However on reflection it did not look as good as expected and so removed the feature
 
-#### 4a) Wellbeing shop page - icons were not spacing correctly
+#### 5) Wellbeing shop page - icons were not spacing correctly
 When resizing the responsiveness of the category icons they were not spacing correctly.
 
-#### 4b) Solution
+#### 5) Solution
 I set each category icon with a fixed width and height of 250px and on top of that set the margin to auto which in turn spaced them correctly. Using the Bootstrap row and col features to set the amount of icons per line depending on the screen size correctly.
 
-#### 5a) Clinic page Icon
+#### 6) Clinic page Icon
 The Clinic Page Icon keeps on floating to the left of the screen rather than staying central. Also its sizing is not to the same sizing as the other icons on other pages which is causing visual problems as it is coming up much bigger
 
-#### 5b) Solution
+#### 6) Solution
 Because this icon is sitting in a bootstrap row on its own, I solved this problem by creating two extra divs on either side of the div for the icon therefor giving it a col-4 split rather than something bigger which is causing the sizing problem as all the icons are responsive rather than being given fixed sizes. This meant that based on the width and height percentages set for the images it scaled the icon down to a similar size to the other page icons.
 
 #### Validating the code with W3 validator - HTML:
@@ -164,8 +166,25 @@ Using the [w3c Validator CSS](http://jigsaw.w3.org/css-validator/)
 
 ## DEPLOYMENT
 
-Project was developed using [gitpod](https://www.gitpod.io/) and was regularly commited to git and pushed up to github. The deployment was carried out as follows:
 
-1. 
+Project was developed using [gitpod](https://www.gitpod.io/) and was regularly commited to git and pushed up to github. 
+
+To work on the project code within a local development environment:
+
+1. Follow this link to PeabHealth repository https://github.com/PhillyJB/milestone-project1-peabahealth
+2. Undr the repository name you have the option to click on 'Go to file' and select a specific file in by doing a search or click the 'Code' Icon which should then have a drop down menu and from there you can clone or download a zip of the files or 'Open with Github Desktop'
+3. Cloning would mean copying the clone URL from the clone HTTPS section.
+4. This clone URL can then be pasted in to the directory you want the file to go in using the 'git clone' followed by the url.
+
+The deployment was carried out as follows onto GitHub Pages:
+
+1. Entered my GitHub account, 
+2. Select the milestone-project1-peabahealth repository
+3. Click on the 'Settings' I con above the repository Master File
+4. WIthin 'Settings' Options Scroll down and clikc on the 'Pages' item
+5. Under GitHub Pages go to 'Source' heading and change none to 'master' branch
+6. Click on save - pleae note no them is chosen for this site under the 'Theme Chooser' section.
+7. The deployed site is available via  clicking here [PeabaHealth](https://phillyjb.github.io/milestone-project1-peabahealth/)
+or https://phillyjb.github.io/milestone-project1-peabahealth/
 
 ## CREDITS
