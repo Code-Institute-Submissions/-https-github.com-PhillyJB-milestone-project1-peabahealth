@@ -24,7 +24,7 @@ Wireframes for the four pages are available for viewing via the PDF file, these 
 ## FEATURES
 
 ### **Existing Features**
-* HomePage Page - A user can scroll through each page freely at the moment without having to log in or enter any credentials. A user can immediately read on the Homepage the "About Us" section and get an immediate idea about what is offered on the site. User can then scroll down to select an area to go into from the three options avaialble.
+* Home Page - A user can scroll through each page freely at the moment without having to log in or enter any credentials. A user can immediately read on the Homepage the "About Us" section and get an immediate idea about what is offered on the site. User can then scroll down to select an area to go into from the three options avaialble.
 
 * Pharmacy Page - A user can then decide to click on the Pharmacy Icon either from the nav bar or icon on the home page and be taken to the Pharmacy page where they can see the three options avaialble to them on the Pharmacy page.  At the moment the clicking onto the Icons only refreshes the page back onto the current page as additional features are too be implemented on future features.
 
